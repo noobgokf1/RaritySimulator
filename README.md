@@ -81,4 +81,4 @@ This project includes:
 Contributions are welcome! Please feel free to submit issues, fork the repository, and make a pull request.
 
 ## License 📝
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [License](LICENSE) file for details.
