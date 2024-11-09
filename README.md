@@ -29,7 +29,7 @@ Rarity Simulator is a Python-based GUI tool for simulating "rolls" to obtain ite
     ```
 2. Install dependencies:
     ```bash
-    pip install customtkinter
+    pip install -r requirements.txt
     ```
 3. Run the simulator:
     ```bash
@@ -73,6 +73,7 @@ This project includes:
 .
 ├── roll.py   # Main simulator code
 ├── configurations/            # Saved configurations (JSON)
+├── requirements.txt
 ├── assets/                    # Banners, screenshots, etc.
 └── README.md
 ```
