@@ -33,7 +33,7 @@ Rarity Simulator is a Python-based GUI tool for simulating "rolls" to obtain ite
     ```
 3. Run the simulator:
     ```bash
-    python rarity_simulator.py
+    python roll.py
     ```
 # Option 2
 1. Go to [Releases](https://github.com/noobgokf1/RaritySimulator/releases)
